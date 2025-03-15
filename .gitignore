@@ -1,0 +1,31 @@
+.vs
+
+# Системные файлы
+.DS_Store              # macOS
+Thumbs.db             # Windows
+
+# Сгенерированные файлы CMake
+CMakeFiles/
+CMakeCache.txt
+
+# IDE и редакторы
+*.idea/
+*.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Логи
+*.log
+
+# Файлы конфигурации
+*.user
+*.suo
+*.userprefs
+
+# Другие временные файлы
+*.tmp
+*.temp
+
+# Папки с зависимостями
+node_modules/
+vendor/
